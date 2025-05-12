@@ -20,6 +20,6 @@ A complete MySQL database system for managing university student information, co
 - MySQL client (Workbench recommended)
 
 ### Installation
-1. Clone the repository:
+  Clone the repository:
    ```bash
-  https://github.com/Barmakyy/Project-db.git
+   git clone  https://github.com/Barmakyy/Project-db.git
